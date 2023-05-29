@@ -189,6 +189,8 @@ After running the App:
 - The name of the branch must be in this format `feature/component_componentName`
 - Prettify your code before making a commit using `yarn prettify` or using your editor shortcuts
 - Be sure that linting rules are all applied, otherwise the commit will not be accepted and will not pass
+- Keep the changes, description and screenshots on the PR itself. They should be self contained and nobody should be putting info outside of it, otherwise it gets lost
+- Title and description must be relevant
 
 ## Pull Requests
 When submitting a review request, please follow these guidelines:
