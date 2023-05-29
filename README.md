@@ -190,6 +190,17 @@ After running the App:
 - Prettify your code before making a commit using `yarn prettify` or using your editor shortcuts
 - Be sure that linting rules are all applied, otherwise the commit will not be accepted and will not pass
 
+## Pull Requests
+When submitting a review request, please follow these guidelines:
+
+Write a message on Discord in the **pr-review-requests** channel and:
+- Include a link to the pull request and a brief description of the changes.
+- Mention the associated issue or task, if applicable.
+- Tag relevant team members or reviewers for their attention.
+- Use clear and concise language to describe the changes and the context.
+
+By following these guidelines, we can streamline the code review process and maintain a productive and organized channel.
+
 ## Theme and styles
 
 - Don't use these components [Text, Pressable, View] provided by react-native, use the ones that are in the components folder
